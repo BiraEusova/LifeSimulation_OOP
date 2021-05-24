@@ -1,0 +1,16 @@
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\bin\Debug\lifeSimulation.exe.config
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\bin\Debug\lifeSimulation.exe
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\bin\Debug\lifeSimulation.pdb
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\obj\Debug\lifeSimulation.csprojAssemblyReference.cache
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\obj\Debug\lifeSimulation.Form1.resources
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\obj\Debug\lifeSimulation.Properties.Resources.resources
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\obj\Debug\lifeSimulation.csproj.GenerateResource.cache
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\obj\Debug\lifeSimulation.csproj.CoreCompileInputs.cache
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\obj\Debug\lifeSimulation.exe
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\obj\Debug\lifeSimulation.pdb
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\bin\Debug\MoreLinq.dll
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\bin\Debug\System.ValueTuple.dll
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\bin\Debug\MoreLinq.pdb
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\bin\Debug\MoreLinq.xml
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\bin\Debug\System.ValueTuple.xml
+C:\Users\irabr\source\repos\lifeSimulation\lifeSimulation\obj\Debug\lifeSimulation.csproj.CopyComplete
